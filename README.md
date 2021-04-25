@@ -1,4 +1,4 @@
-## Hi there 👋 :blush:
+<h1 align="center">Hi 👋, I'm Harsha Vardhan</h1>
 
 - 🌱 I’m currently learning Comptia Network plus Security 
 - 💬 Ask me about Networking and Cyber Fornesics 
