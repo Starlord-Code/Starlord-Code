@@ -12,8 +12,11 @@
 
 
 ## Contact Me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Starlord-Code)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/harsha-vardhan-dangeti-884197191/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/profile.php?id=100007072383810)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/___h.a.r.s.h.a____/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='20'>](https://codepen.io/starlord-code)  
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/Starlord-Code) 
+[![Gitlab Badge](https://img.shields.io/badge/--000?style=flat-square&logo=Gitlab&logoColor=white&link=https://github.com/lucasgdb)](https://git.amrita.edu/Gana016)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsha-vardhan-dangeti-884197191/)](https://www.linkedin.com/in/harsha-vardhan-dangeti-884197191/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harsha.vardhan.422812@gmail.com)](mailto:harsha.vardhan.422812@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ganapathi_subbu/)](https://www.instagram.com/___h.a.r.s.h.a____/)
 
 
 ## Skills and Experience
