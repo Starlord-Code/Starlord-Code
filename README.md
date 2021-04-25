@@ -1,5 +1,4 @@
-### Hi there 👋 :blush:
-
+## Hi there 👋 :blush:
 
 - 🌱 I’m currently learning Comptia Network plus Security 
 - 💬 Ask me about Networking and Cyber Fornesics 
