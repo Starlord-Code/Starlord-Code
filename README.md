@@ -1,3 +1,4 @@
+<img align="right" width="500" src="https://github.com/Starlord-Code/gifs/blob/main/giphy.gif?fit=1281%2C716&ssl=1" />
 <h1 align="center">Hi 👋, I'm Harsha Vardhan</h1>
 
 - 🚀 Currently Computer Science student at [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore).
@@ -7,7 +8,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Starlord-Code)  
 
-<img align="right" width="400" src="https://github.com/Starlord-Code/gifs/blob/main/giphy.gif?fit=1281%2C716&ssl=1" />
+
 
 
 ## Contact Me
