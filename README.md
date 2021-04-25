@@ -5,7 +5,7 @@
 - 💬 Ask me about Networking and Cyber Fornesics 
 - 📫 How to reach me: hasrha.vardhan.422812@gmail.com
 
-
+![Profile views](https://gpvc.arturio.dev/Starlord-Code)  
 
 ## GitHub
 
@@ -21,8 +21,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Starlord-Code&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Starlord-Code&theme=radical)  
+ 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Starlord-Code)  
 
-![Profile views](https://gpvc.arturio.dev/Starlord-Code)  
+
+
