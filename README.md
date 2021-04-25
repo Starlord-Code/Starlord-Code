@@ -5,7 +5,7 @@
 - 💬 Ask me about Networking and Cyber Fornesics 
 - 📫 How to reach me: hasrha.vardhan.422812@gmail.com
 
-[![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starlord-Code)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## GitHub
 
