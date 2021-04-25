@@ -6,6 +6,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/Starlord-Code)  
 
+![](https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif)
+
 ## Contact Me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Starlord-Code)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/harsha-vardhan-dangeti-884197191/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/profile.php?id=100007072383810)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/___h.a.r.s.h.a____/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='20'>](https://codepen.io/starlord-code)  
