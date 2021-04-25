@@ -7,7 +7,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/Starlord-Code)  
 
-![](https://github.com/Starlord-Code/gifs/blob/main/giphy.gif)
+<img align="right" width="400" src="https://github.com/Starlord-Code/gifs/blob/main/giphy.gif?fit=1281%2C716&ssl=1" />
+
 
 ## Contact Me
 
