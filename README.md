@@ -9,7 +9,6 @@
 ![Profile views](https://gpvc.arturio.dev/Starlord-Code)  
 
 
-<script src="https://www.hackthebox.eu/badge/432661"></script>
 
 ## Contact Me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/Starlord-Code) 
